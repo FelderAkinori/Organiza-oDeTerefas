@@ -1,7 +1,7 @@
 # Organiza-oDeTerefas
 Aplicativo para organização de tarefas.
 # Imagem 1
-![Screenshot](image1.png)
+![Screenshot](image1.PNG)
 # Imagem 2
 ![Screenshot](image2.png)
 # Imagem 3
